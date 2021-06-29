@@ -1,6 +1,6 @@
 module.exports = {
   
-    "TOKEN": "ODU5MzQ3MzEzNDU2NDQ3NTA4.YNrXjQ.UZR8Gt38daKY3-SjGYN4YosO8Ro",
+    "TOKEN": (process.env.TOKEN),
     "PREFIX": "%",
     
     "IGNOREDROLES": [
